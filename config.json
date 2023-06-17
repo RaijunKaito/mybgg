@@ -4,15 +4,15 @@
         "title": ""
     },
     "boardgamegeek": {
-        "user_name": "a92073123a",
+        "user_name": "RaijunKaito",
         "extra_params": {
             "own": 1
         }
     },
     "algolia": {
-        "app_id": "L4A9B95SL8",
-        "api_key_search_only": "a3968f598d0337a01a780c5e15a449c9",
-        "index_name": "my_bgg_list",
+        "app_id": "LU7LC8DPRD",
+        "api_key_search_only": "f7d7e35c96de3522e3f377ce782764ac",
+        "index_name": "MyBggList",
         "hits_per_page": 48
     }
 }
